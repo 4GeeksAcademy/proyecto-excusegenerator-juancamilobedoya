@@ -1,0 +1,17 @@
+.cuadro-excusa{
+text-align: center;
+padding-top: 15%;
+
+}
+body{
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.cuadro-h1{
+   margin: 10%;
+   border-color: solid black;
+   border-style: double;
+   
+}
